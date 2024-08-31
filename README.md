@@ -61,7 +61,7 @@ The project builds upon existing research in panoramic image stitching:
 
 ## Conclusion
 
-The project successfully demonstrated the use of feature-based techniques for creating high-quality panoramas. By addressing challenges related to motion, lighting, and blending, the project provides insights for future research and practical applications in fields such as Virtual Reality, Real Estate, Autonomous Vehicles, and more.
+The project successfully demonstrated the use of feature-based techniques for creating high-quality panoramas. By addressing challenges related to motion, lighting, and blending, the project provides insights for future research and practical applications in fields such as Virtual Reality, Real Estate, Autonomous Vehicles,
 
 ## References
 
