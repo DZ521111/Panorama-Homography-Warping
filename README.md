@@ -49,7 +49,7 @@ The project builds upon existing research in panoramic image stitching:
 
 1. **Motion-Induced Inconsistencies**: Minor movements during image capture caused misalignments.
 2. **Brightness and Contrast Disparities**: Differences in lighting led to visible seams.
-3. **Optimal Threshold Estimation**: Difficulties in setting thresholds for feature detection.
+3. **Optimal Threshold Estimation**: Difficulties in setting the thresholds for feature detection.
 4. **Blank Spaces**: Occurred due to insufficient overlap or alignment issues.
 5. **Image Blending**: Need for more advanced algorithms to achieve seamless blending.
 
