@@ -58,6 +58,7 @@ The project builds upon existing research in panoramic image stitching:
 - **Enhancing Motion Stabilization**: Developing better stabilization techniques.
 - **Adaptive Brightness and Contrast Adjustments**: Automating these adjustments during the stitching process.
 - **Advanced Blending Algorithms**: Researching algorithms that can more effectively handle color and texture differences.
+- **Real-Time Stitching**: Implementing real-time stitching capabilities to enable immediate panorama generation, which could be beneficial for live applications such as surveillance and live event coverage.
 
 ## Conclusion
 
@@ -70,6 +71,5 @@ The project successfully demonstrated the use of feature-based techniques for cr
 3. [Image Stitching System Based on ORB Feature Based Technique](https://pdfs.semanticscholar.org/cf0d/3838b87c0f14f5941f78252c444126ae36bc.pdf)
 
 ## Project Repository
-
 Find the project on GitHub: [Beyond-Horizon](https://github.com/DZ521111/Beyond-Horizon)
 
